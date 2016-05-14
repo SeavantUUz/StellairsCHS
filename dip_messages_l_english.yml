@@ -11,7 +11,7 @@
 #03_HOSTILE_GREETING:0 "No more games, [From.GetSpeciesName]. What do you want?"
  03_HOSTILE_GREETING:0 "No more games, [From.GetSpeciesName]. What do you want?"
 #04_HOSTILE_GREETING:0 "You have the attention of the [Root.GetName]. Speak quickly."
- 04_HOSTILE_GREETING:0 "You have the attention of the [Root.GetName]. Speak quickly."
+ 04_HOSTILE_GREETING:0 "你已经获得了 [Root.GetName] 的关注。有事快说吧。"
 #05_HOSTILE_GREETING:0 "Why won't you just leave us alone, [From.GetSpeciesName]?"
  05_HOSTILE_GREETING:0 "Why won't you just leave us alone, [From.GetSpeciesName]?"
 #06_HOSTILE_GREETING:1 "You filthy [From.GetSpeciesNamePluralInsult] are a menace to galactic peace!"
