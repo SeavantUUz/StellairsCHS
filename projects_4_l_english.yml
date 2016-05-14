@@ -1,0 +1,26 @@
+﻿l_english:
+
+ ####################################
+ # Special Projects
+ ####################################
+
+#hallucinogen_removal:0 "Hallucinogen Removal"
+ hallucinogen_removal:0 "Hallucinogen Removal"
+#hallucinogen_removal_DESC:1 "Attempt to remove the hallucinogen from [Root.GetName]'s atmosphere."
+ hallucinogen_removal_DESC:1 "Attempt to remove the hallucinogen from [Root.GetName]'s atmosphere."
+#impact_defence_system:0 "Asteroid Defense System"
+ impact_defence_system:0 "行星防御系统"
+#impact_defence_system_DESC:0 "We must investigate how best to protect the colony on [Root.GetName] from the frequent asteroid impacts which plague the planet."
+ impact_defence_system_DESC:0 "We must investigate how best to protect the colony on [Root.GetName] from the frequent asteroid impacts which plague the planet."
+#titanic_life_study_normal:0 "Titanic Life Study"
+ titanic_life_study_normal:0 "学习巨型生物"
+#titanic_life_study_normal_DESC:1 "By studying the Titanic Life of [Root.GetName], we can hopefully learn to understand them and possibly even communicate."
+ titanic_life_study_normal_DESC:1 "通过学习[Root.GetName]的巨型生物, 我们希望可以理解他们,甚至可以和他们交流。"
+#titanic_life_study_mean:0 "Titanic Life Necropsies"
+ titanic_life_study_mean:0 "尸检巨型生物"
+#titanic_life_study_mean_DESC:1 "By harvesting the Titanic Life of [Root.GetName], we should soon work out how best to exploit them!"
+ titanic_life_study_mean_DESC:1 "By harvesting the Titanic Life of [Root.GetName], we should soon work out how best to exploit them!"
+#titanic_life_study_nice:0 "Titanic Life Monitoring"
+ titanic_life_study_nice:0 "监测巨型生物"
+#titanic_life_study_nice_DESC:1 "By carefully monitoring the Titanic Life of [Root.GetName], we hope to be able to coexist peacefully with them."
+ titanic_life_study_nice_DESC:1 "通过小心地监测[Root.GetName]的巨型生物, 我们希望能与他们和平的共存"
