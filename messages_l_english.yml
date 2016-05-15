@@ -27,11 +27,11 @@
 #MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§! has found an §HAnomaly§! on $PLANET|Y$."
  MESSAGE_FLEET_ORDER_ANOMALY:0 "§H$FLEET$§! 在 $PLANET|Y$ 上找到了一个 §H不明物体§! 。"
 #MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "§H$FLEET$§! completed the construction of a $SHIPCLASS|Y$ in $STAR|Y$."
- MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "§H$FLEET$§! completed the construction of a $SHIPCLASS|Y$ in $STAR|Y$."
+ MESSAGE_FLEET_ORDER_FINISH_BUILD_SPACE_STATION:0 "§H$FLEET$§! 已完成 $SHIPCLASS|Y$ in $STAR|Y$ 的建造。"
 #MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§! has failed to analyze the FTL trail."
- MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§! has failed to analyze the FTL trail."
+ MESSAGE_FLEET_ORDER_ANALYZE_FAIL:0 "§H$FLEET$§! 未能顺利分析超光速巡航轨道。"
 #MESSAGE_FLEET_ORDER_ANALYZE_FINISH:0 "§H$FLEET$§! has analyzed the FTL trail."
- MESSAGE_FLEET_ORDER_ANALYZE_FINISH:0 "§H$FLEET$§! has analyzed the FTL trail."
+ MESSAGE_FLEET_ORDER_ANALYZE_FINISH:0 "§H$FLEET$§! 已成功分析超光速巡航轨道。"
 #MESSAGE_FLEET_SYSTEM_FULLY_SURVEYED:0 "The $SYSTEM|Y$ system has been fully surveyed."
  MESSAGE_FLEET_SYSTEM_FULLY_SURVEYED:0 "$SYSTEM|Y$ 星系已被完全探测。"
 #MESSAGE_FLEET_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "Fleet Order Finished"
@@ -381,42 +381,42 @@
 #RULER_ELECTED_HEIR:0 "As per the order of succession, $TITLE$ $LEADER|Y$! is the new Ruler."
  RULER_ELECTED_HEIR:0 "As per the order of succession, $TITLE$ $LEADER|Y$! is the new Ruler."
 #MESSAGE_LEADER_DEATH_TITLE:0 "Leader Died"
- MESSAGE_LEADER_DEATH_TITLE:0 "Leader Died"
+ MESSAGE_LEADER_DEATH_TITLE:0 "领袖已死亡"
 #MESSAGE_RULER_ELECTED_TITLE:0 "Ruler Elected"
- MESSAGE_RULER_ELECTED_TITLE:0 "Ruler Elected"
+ MESSAGE_RULER_ELECTED_TITLE:0 "统治者已当选"
 #MESSAGE_RULER_ELECTED_UNTIL_DEATH_TITLE:0 "Ruler Elected"
- MESSAGE_RULER_ELECTED_UNTIL_DEATH_TITLE:0 "Ruler Elected"
+ MESSAGE_RULER_ELECTED_UNTIL_DEATH_TITLE:0 "统治者已当选"
 #MESSAGE_RULER_ELECTED_HEIR_TITLE:0 "Reign Succeeded"
  MESSAGE_RULER_ELECTED_HEIR_TITLE:0 "Reign Succeeded"
 #MESSAGE_ELECTION_MESSAGE_TYPE_TITLE:0 "Election"
- MESSAGE_ELECTION_MESSAGE_TYPE_TITLE:0 "Election"
+ MESSAGE_ELECTION_MESSAGE_TYPE_TITLE:0 "选举"
 #MESSAGE_DEMOCRATIC_ELECTION_DESC:0 "The campaigning to elect a new $TITLE$ is under way.\nThe result will be announced on $DATE|Y$."
  MESSAGE_DEMOCRATIC_ELECTION_DESC:0 "The campaigning to elect a new $TITLE$ is under way.\nThe result will be announced on $DATE|Y$."
 #MESSAGE_OLIGARCHIC_ELECTION_DESC:0 "The negotiations for appointing a new $TITLE$ are under way.\nThe decision will be announced on $DATE|Y$."
  MESSAGE_OLIGARCHIC_ELECTION_DESC:0 "The negotiations for appointing a new $TITLE$ are under way.\nThe decision will be announced on $DATE|Y$."
 #ELECTION_CLICK_FOR_MORE_INFO:0 "Click for more info"
- ELECTION_CLICK_FOR_MORE_INFO:0 "Click for more info"
+ ELECTION_CLICK_FOR_MORE_INFO:0 "点击获取更多信息"
 #LEADER_DEATH_AGE:0 "$CLASS|Y$ $LEADER|Y$ has died at the age of $AGE|Y$."
- LEADER_DEATH_AGE:0 "$CLASS|Y$ $LEADER|Y$ has died at the age of $AGE|Y$."
+ LEADER_DEATH_AGE:0 "$CLASS|Y$ $LEADER|Y$ 在 $AGE|Y$ 岁时死亡了"
 #TOOLTIP_KILL_LEADER:0 "$CLASS|Y$ $LEADER|Y$ §Rdies§!"
- TOOLTIP_KILL_LEADER:0 "$CLASS|Y$ $LEADER|Y$ §Rdies§!"
+ TOOLTIP_KILL_LEADER:0 "$CLASS|Y$ $LEADER|Y$ §R死了§!"
 #MESSAGE_LEADER_EXPERIENCE_TITLE:0 "A Leader has Gained Experience"
- MESSAGE_LEADER_EXPERIENCE_TITLE:0 "A Leader has Gained Experience"
+ MESSAGE_LEADER_EXPERIENCE_TITLE:0 "以为领袖已获得经验"
 #LEADER_EXPERIENCE_NOTIFICATION_DESC:0 "§T$CLASS|Y$ $LEADER|Y$ gained experience from combat\n\n$STATS$§!"
- LEADER_EXPERIENCE_NOTIFICATION_DESC:0 "§T$CLASS|Y$ $LEADER|Y$ gained experience from combat\n\n$STATS$§!"
+ LEADER_EXPERIENCE_NOTIFICATION_DESC:0 "§T$CLASS|Y$ $LEADER|Y$ 已从战斗中获得经验\n\n$STATS$§!"
 #MESSAGE_LEADER_LEVEL_UP_TITLE:0 "A Leader has Gained a Level"
- MESSAGE_LEADER_LEVEL_UP_TITLE:0 "A Leader has Gained a Level"
+ MESSAGE_LEADER_LEVEL_UP_TITLE:0 "一位领袖已提升等级"
 #LEADER_LEVEL_UP_DESC:0 "$CLASS|Y$ $LEADER|Y$ has leveled up\n\nSkill: $LEVEL|Y$\n"
- LEADER_LEVEL_UP_DESC:0 "$CLASS|Y$ $LEADER|Y$ has leveled up\n\nSkill: $LEVEL|Y$\n"
+ LEADER_LEVEL_UP_DESC:0 "$CLASS|Y$ $LEADER|Y$ 已升级\n\nSkill: $LEVEL|Y$\n"
 #LEADER_LEVEL_UP_NEXT_LEVEL_DESC:0 "$CLASS|Y$ $LEADER|Y$ has leveled up\n\nSkill: $LEVEL|Y$\nExperience needed for next Level: $EXP|Y0$"
- LEADER_LEVEL_UP_NEXT_LEVEL_DESC:0 "$CLASS|Y$ $LEADER|Y$ has leveled up\n\nSkill: $LEVEL|Y$\nExperience needed for next Level: $EXP|Y0$"
+ LEADER_LEVEL_UP_NEXT_LEVEL_DESC:0 "$CLASS|Y$ $LEADER|Y$ 已升级\n\nSkill: $LEVEL|Y$\n距离下级所需经验： $EXP|Y0$"
 
 #LEADER_ADMIRAL_BASE_EXPERIENCE:0 "§TFleet Engagement: $VAL|0H$ experience§!"
  LEADER_ADMIRAL_BASE_EXPERIENCE:0 "§TFleet Engagement: $VAL|0H$ experience§!"
 #LEADER_ADMIRAL_HOSTILE_KILLED_EXPERIENCE:0 "§THostile Forces Destroyed: $VAL|0H$ experience§!"
- LEADER_ADMIRAL_HOSTILE_KILLED_EXPERIENCE:0 "§THostile Forces Destroyed: $VAL|0H$ experience§!"
+ LEADER_ADMIRAL_HOSTILE_KILLED_EXPERIENCE:0 "§T敌方部队已被摧毁 $VAL|0H$ 经验§!"
 #LEADER_ADMIRAL_FRIENDLY_LOST_EXPERIENCE:0 "§TFriendly Forces Lost: $VAL|0H$ experience§!"
- LEADER_ADMIRAL_FRIENDLY_LOST_EXPERIENCE:0 "§TFriendly Forces Lost: $VAL|0H$ experience§!"
+ LEADER_ADMIRAL_FRIENDLY_LOST_EXPERIENCE:0 "§T已失去友方部队: $VAL|0H$ 经验§!"
 
 #LEADER_GENERAL_BASE_EXPERIENCE:0 "§TGround Engagement: $VAL|0H$ experience§!"
  LEADER_GENERAL_BASE_EXPERIENCE:0 "§TGround Engagement: $VAL|0H$ experience§!"
@@ -433,9 +433,9 @@
  # Technology
  ####################################
 #MESSAGE_TECHNOLOGY_RESEARCH_FINISH:0 "We have completed the research of $TECHNOLOGY|H$."
- MESSAGE_TECHNOLOGY_RESEARCH_FINISH:0 "We have completed the research of $TECHNOLOGY|H$."
+ MESSAGE_TECHNOLOGY_RESEARCH_FINISH:0 "我们已完成对 $TECHNOLOGY|H$ 的研究。"
 #MESSAGE_TECHNOLOGY_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "Technology researched"
- MESSAGE_TECHNOLOGY_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "Technology researched"
+ MESSAGE_TECHNOLOGY_ORDER_FINISH_MESSAGE_TYPE_TITLE:0 "科技已研究"
 
  ####################################
  # Debris
@@ -453,7 +453,7 @@
  # Anomaly
  ####################################
 #MESSAGE_ANOMALY_DETECTED_TYPE_TITLE:0 "Anomaly"
- MESSAGE_ANOMALY_DETECTED_TYPE_TITLE:0 "Anomaly"
+ MESSAGE_ANOMALY_DETECTED_TYPE_TITLE:0 "异形物"
 
  ####################################
  # No Access
@@ -463,9 +463,9 @@
 #MESSAGE_FLEET_LEAVE_SYSTEM_NO_ACCESS:0 "$FLEET|Y$ was forced to return to $RETURN|Y$ from $FROM|Y$, because it is within the borders of $WHO|Y$."
  MESSAGE_FLEET_LEAVE_SYSTEM_NO_ACCESS:0 "$FLEET|Y$ was forced to return to $RETURN|Y$ from $FROM|Y$, because it is within the borders of $WHO|Y$."
 #MESSAGE_WORMHOLE_CLOSED_NO_ACCESS_TITLE:0 "Wormhole Closed"
- MESSAGE_WORMHOLE_CLOSED_NO_ACCESS_TITLE:0 "Wormhole Closed"
+ MESSAGE_WORMHOLE_CLOSED_NO_ACCESS_TITLE:0 "虫洞已关闭"
 #MESSAGE_FLEET_LEAVE_SYSTEM_NO_ACCESS_TITLE:0 "No Access"
- MESSAGE_FLEET_LEAVE_SYSTEM_NO_ACCESS_TITLE:0 "No Access"
+ MESSAGE_FLEET_LEAVE_SYSTEM_NO_ACCESS_TITLE:0 "禁止访问"
 
  ####################################
  # Revolt
@@ -525,9 +525,9 @@
 #MESSAGE_SPECIES_MODIFICATION_FAILED:0 "Our project to Modify the Traits of the $SPECIES|Y$ has failed."
  MESSAGE_SPECIES_MODIFICATION_FAILED:0 "Our project to Modify the Traits of the $SPECIES|Y$ has failed."
 #MESSAGE_SPECIAL_PROJECT_AVAILABLE_TITLE:0 "Special Project Available"
- MESSAGE_SPECIAL_PROJECT_AVAILABLE_TITLE:0 "Special Project Available"
+ MESSAGE_SPECIAL_PROJECT_AVAILABLE_TITLE:0 "有可用的特殊项目"
 #SPECIAL_PROJECT_AVAILABLE:0 "Special Project Available for research."
- SPECIAL_PROJECT_AVAILABLE:0 "Special Project Available for research."
+ SPECIAL_PROJECT_AVAILABLE:0 "有可研究的特殊项目"
 
 
  ####################################
@@ -540,27 +540,27 @@
  # Invasion
  ####################################
 #MESSAGE_INVASION_TITLE:0 "Invasion Over"
- MESSAGE_INVASION_TITLE:0 "Invasion Over"
+ MESSAGE_INVASION_TITLE:0 "入侵结束"
 #MESSAGE_INVASION_ATTACKER_WIN:0 "We have successfully invaded $PLANET|H$!"
- MESSAGE_INVASION_ATTACKER_WIN:0 "We have successfully invaded $PLANET|H$!"
+ MESSAGE_INVASION_ATTACKER_WIN:0 "我们已成功入侵 $PLANET|H$！"
 #MESSAGE_INVASION_ATTACKER_LOSE:0 "Our invasion of $PLANET|H$ has failed."
- MESSAGE_INVASION_ATTACKER_LOSE:0 "Our invasion of $PLANET|H$ has failed."
+ MESSAGE_INVASION_ATTACKER_LOSE:0 "我们对f $PLANET|H$ 的入侵失败了。"
 #MESSAGE_INVASION_DEFENDER_WIN:0 "We successfully fended off the invaders on $PLANET|H$!"
- MESSAGE_INVASION_DEFENDER_WIN:0 "We successfully fended off the invaders on $PLANET|H$!"
+ MESSAGE_INVASION_DEFENDER_WIN:0 "我们已成功击退 $PLANET|H$ 上的入侵者！"
 #MESSAGE_INVASION_DEFENDER_LOSE:0 "We failed to fend off the invaders on $PLANET|H$."
- MESSAGE_INVASION_DEFENDER_LOSE:0 "We failed to fend off the invaders on $PLANET|H$."
+ MESSAGE_INVASION_DEFENDER_LOSE:0 "我们未能顺利击退 $PLANET|H$ 上的入侵者。"
 
  ####################################
  # Subject changes
  ####################################
 #MESSAGE_SUBJECT_TYPE_CHANGED_TITLE:0 "Subject Status Changed"
- MESSAGE_SUBJECT_TYPE_CHANGED_TITLE:0 "Subject Status Changed"
+ MESSAGE_SUBJECT_TYPE_CHANGED_TITLE:0 "主题状态已更改"
 #MESSAGE_SUBJECT_CHANGED_DESC:0 "$REASON$$SUBJECT|Y$ is now a $NEW_TYPE|Y$ under $OVERLORD|Y$"
- MESSAGE_SUBJECT_CHANGED_DESC:0 "$REASON$$SUBJECT|Y$ is now a $NEW_TYPE|Y$ under $OVERLORD|Y$"
+ MESSAGE_SUBJECT_CHANGED_DESC:0 "$REASON$$SUBJECT|Y$ 现在在 $OVERLORD|Y$ 之下 是一个 $NEW_TYPE|Y$"
 #MESSAGE_SUBJECT_CHANGE_REASON_protectorate_me:0 "Due to our advances in technology, "
- MESSAGE_SUBJECT_CHANGE_REASON_protectorate_me:0 "Due to our advances in technology, "
+ MESSAGE_SUBJECT_CHANGE_REASON_protectorate_me:0 "由于我们先进的科技， "
 #MESSAGE_SUBJECT_CHANGE_REASON_protectorate:0 "Due to their advances in technology, "
- MESSAGE_SUBJECT_CHANGE_REASON_protectorate:0 "Due to their advances in technology, "
+ MESSAGE_SUBJECT_CHANGE_REASON_protectorate:0 "由于他们先进的科技， "
 
  ####################################
  # Triggered Modifiers
@@ -578,4 +578,4 @@
  # Combat Stats
  ####################################
 #MESSAGE_COMBAT_STATS_TITLE:0 "Fleet Combat Stats"
- MESSAGE_COMBAT_STATS_TITLE:0 "Fleet Combat Stats"
+ MESSAGE_COMBAT_STATS_TITLE:0 "舰队战斗统计"
