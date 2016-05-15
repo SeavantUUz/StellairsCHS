@@ -95,7 +95,7 @@
 #TUTORIAL_GOVERNMENTVIEW_DEMOGRAPHICS_DESC:0 "The §SDemographics§! tab tracks the makeup and spread of our empire's populace.\n\nIt also shows dominant §STraits§! among our §SPops§! as well as modifiers to productivity and happiness, among other things."
  TUTORIAL_GOVERNMENTVIEW_DEMOGRAPHICS_DESC:0 "The §SDemographics§! tab tracks the makeup and spread of our empire's populace.\n\nIt also shows dominant §STraits§! among our §SPops§! as well as modifiers to productivity and happiness, among other things."
 #TUTORIAL_EMPIREVIEW_LEADERS_TITLE:0 "Leaders"
- TUTORIAL_EMPIREVIEW_LEADERS_TITLE:0 "Leaders"
+ TUTORIAL_EMPIREVIEW_LEADERS_TITLE:0 "领导人"
 #TUTORIAL_EMPIREVIEW_LEADERS_DESC:0 "The §SLeaders§! tab lets us hire, dismiss and assign idle §SGovernors§!, §SScientists§!, §SAdmirals§! and §SGenerals§!."
  TUTORIAL_EMPIREVIEW_LEADERS_DESC:0 "The §SLeaders§! tab lets us hire, dismiss and assign idle §SGovernors§!, §SScientists§!, §SAdmirals§! and §SGenerals§!."
 #TUTORIAL_EMPIREVIEW_FACTIONS_TITLE:0 "Factions"
