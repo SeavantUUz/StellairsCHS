@@ -367,7 +367,7 @@
  # Leaders
  ####################################
 #FLEET_LEADER_DEATH:0 "$CLASS|Y$ $LEADER|Y$ died when the $SHIP|Y$ was destroyed."
- FLEET_LEADER_DEATH:0 "$CLASS|Y$ $LEADER|Y$ died when the $SHIP|Y$ was destroyed."
+ FLEET_LEADER_DEATH:0 "$CLASS|Y$ $LEADER|Y$ 在 $SHIP|Y$ 被摧毁时死亡了。"
 #ARMY_LEADER_DEATH:0 "Our $CLASS|Y$, $LEADER|Y$ has died while commanding $ARMY|Y$."
  ARMY_LEADER_DEATH:0 "Our $CLASS|Y$, $LEADER|Y$ has died while commanding $ARMY|Y$."
 #PLANET_LEADER_DEATH:0 "Our $CLASS|Y$, $LEADER|Y$ has died on $PLANET|Y$."
