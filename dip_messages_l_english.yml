@@ -683,7 +683,7 @@
 #EE_NEUTRAL_GREETING_01:0 "Greetings, [From.GetSpeciesName]. Do you come with questions, or with answers?"
  EE_NEUTRAL_GREETING_01:0 "你好， [From.GetSpeciesName]。你是带着疑问，还是答案来的？"
 #EE_NEUTRAL_GREETING_02:0 "Our goal is not power, but knowledge, although they can sometimes be the same."
- EE_NEUTRAL_GREETING_02:0 "我们的目标是力量，而不是知识，虽然他们有时可以是一样的。"
+ EE_NEUTRAL_GREETING_02:0 "我们的目标不是力量，而是知识，虽然他们有时可以是一样的。"
 #EE_NEUTRAL_GREETING_03:0 "It may surprise you to hear that your beliefs are quite irrational. You better get used to harsh truths if you want to converse with us."
  EE_NEUTRAL_GREETING_03:0 "It may surprise you to hear that your beliefs are quite irrational. You better get used to harsh truths if you want to converse with us."
 #EE_THREATENED_GREETING_01:0 "Whatever you're planning next, remember that we present no threat to you. We are content to discover new frontiers, not challenge yours."
